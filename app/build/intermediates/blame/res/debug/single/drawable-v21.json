@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\6dfb1774e7ca59fbf3a9451f05e67703fe903a53\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\003f4e5b61551c773d5d13e82c86f0b76146aa2f\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\6dfb1774e7ca59fbf3a9451f05e67703fe903a53\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\6dfb1774e7ca59fbf3a9451f05e67703fe903a53\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\6dfb1774e7ca59fbf3a9451f05e67703fe903a53\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\003f4e5b61551c773d5d13e82c86f0b76146aa2f\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\003f4e5b61551c773d5d13e82c86f0b76146aa2f\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\1690015\\.android\\build-cache\\003f4e5b61551c773d5d13e82c86f0b76146aa2f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

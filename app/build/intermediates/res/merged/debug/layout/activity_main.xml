@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#e2e1e1"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.movieapp.MainActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:backgroundTint="#d11b33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+
+        android:minHeight="?attr/actionBarSize"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:theme="?attr/actionBarTheme" >
+
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="0dp"
+            app:srcCompat="@mipmap/download" />
+
+        <EditText
+            android:id="@+id/searchtxt"
+            android:layout_width="109dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="0dp"
+            android:hint="Movie Name" />
+        <EditText
+            android:id="@+id/searchreg"
+            android:layout_width="63dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="2dp"
+            android:hint="Region" />
+
+        <EditText
+            android:id="@+id/searchyear"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="2dp"
+            android:hint="Year"
+            android:inputType="number" />
+        <Button
+            android:id="@+id/searchb"
+            android:layout_width="wrap_content"
+            android:text="search"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="0dp"
+            />
+
+    </android.support.v7.widget.Toolbar>
+
+    <ListView
+        android:id="@+id/lst"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

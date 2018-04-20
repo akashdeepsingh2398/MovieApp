@@ -1,0 +1,7 @@
+#Tue Oct 17 12:31:06 EDT 2017
+base.0=C\:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5a8b89e46deb9d9009ac37319eb6384cf71e1f62
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3c4579de0933c64411ff1fcbcc3fa91d4692e7ba\\classes.dex
+base.1=C\:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3c4579de0933c64411ff1fcbcc3fa91d4692e7ba
+file.0=C\:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5a8b89e46deb9d9009ac37319eb6384cf71e1f62\\classes.dex

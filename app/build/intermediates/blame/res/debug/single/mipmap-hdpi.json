@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\1690015\\Desktop\\movie\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\search.png",
+        "source": "C:\\Users\\1690015\\Desktop\\movie\\app\\src\\main\\res\\mipmap-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\download.png",
+        "source": "C:\\Users\\1690015\\Desktop\\movie\\app\\src\\main\\res\\mipmap-hdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\1690015\\Desktop\\movie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\1690015\\Desktop\\movie\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

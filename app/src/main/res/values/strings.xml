@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="menu_action_popular">Popular Movies</string>
+    <string name="menu_action_latest">Latest Movies</string>
+    <string name="menu_action_top">Top Rated Movies</string>
+    <string name="menu_action_now">Now Playing Movies</string>
+    <string name="menu_action_up">Upcoming Movies</string>
+
+</resources>
